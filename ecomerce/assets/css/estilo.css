@@ -1,0 +1,34 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+a#detalhes:link{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+
+footer{
+	position: relative;
+	top: 400px;
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+
+.btn-centralizar{
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+
+#pessoa{
+	text-align: center;
+}
+
+#txt-alterar{
+	height: 250px;
+}
